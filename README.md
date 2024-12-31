@@ -1,5 +1,6 @@
 # Tripay-Paymenter
-Tripay payment gateway integration with Paymenter
+Tripay payment gateway integration with Paymenter.
+
 This extension enables integration with https://tripay.co.id/ Only works with Indonesian Currency (IDR)
 
 # Configuration
