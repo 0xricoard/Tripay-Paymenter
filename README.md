@@ -5,7 +5,9 @@ This extension enables integration with https://tripay.co.id/ Only works with In
 
 # Configuration
 Set the payment_method to the available payments channels https://tripay.co.id/developer?tab=channels
+
 The default callback for this extension is yourdomain.com/extensions/tripay/webhook
+
 Please set in your Tripay merchant account.
 
 # Contribute
